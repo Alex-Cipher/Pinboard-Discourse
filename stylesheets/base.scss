@@ -36,3 +36,15 @@ html.desktop-view {
     width: 100%;
     max-width: 100%;
 }
+
+img.avatar {
+    display: none;
+}
+
+.topic-body .topic-meta-data {
+    display: none;
+}
+
+html.anon #topic-footer-buttons {
+    display: none;
+}
