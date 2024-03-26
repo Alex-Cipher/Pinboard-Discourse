@@ -80,3 +80,7 @@ html.anon #topic-footer-buttons {
 .topic-card__thumbnail .main-thumbnail {
     object-fit: contain;
 }
+
+nav.post-controls .actions .double-button {
+    display: none;
+}
