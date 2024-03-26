@@ -76,3 +76,7 @@ html.anon #topic-footer-buttons {
 .topic-list-bottom {
     display: none;
 }
+
+.topic-card__thumbnail .main-thumbnail {
+    object-fit: contain;
+}
